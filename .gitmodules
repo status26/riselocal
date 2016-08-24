@@ -1,0 +1,3 @@
+[submodule "themes/hugo-theme-riselocal"]
+	path = themes/hugo-theme-riselocal
+	url = git@github.com:status26/hugo-theme-riselocal.git
