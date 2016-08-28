@@ -8,8 +8,8 @@ enable = true
 
 [params.signup]
 enable = true
-title = "Are You Crazy?"
-subtitle = "....then don't miss this opportunity to sign up for our FREE marketing course."
+hook = "Are You Crazy?"
+detail = "....then don't miss this opportunity to sign up for our FREE marketing course."
 
 # PAGE CONFIG
 
