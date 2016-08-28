@@ -2,9 +2,17 @@ baseurl = "http://dev.riselocal.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-theme-tempo"
+disqusShortname = "risedev"
 
-[params.facebook]
-enable = true
+[taxonomies]
+tag = "tags"
+topic = "topics"
+2016 = "2016"
+2017 = "2017"
+2018 = "2018"
+
+[params.social]
+facebook = "https://www.facebook.com/status26inc/"
 
 [params.signup]
 enable = true
@@ -23,8 +31,8 @@ ctaURL = "tour"
 
 [params.promo.signup]
 enable = true
-hook = "Turn Your Business into a Lead Genertion Machine!"
-detail = "Signup for Our Free 10 Step Online Marketing Course"
+hook = "Turn your local business into a Lead Genertion Machine!"
+detail = "Signup for Our Free Online Marketing Course for Business Owners"
 
 # Press section
 [params.press]
