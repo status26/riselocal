@@ -1,4 +1,43 @@
 baseurl = "http://dev.riselocal.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "hugo-theme-riselocal"
+theme = "hugo-theme-tempo"
+
+[params.facebook]
+enable = true
+
+[params.signup]
+enable = true
+title = "Are You Crazy?"
+subtitle = "....then don't miss this opportunity to sign up for our FREE marketing course."
+
+# PAGE CONFIG
+
+# Promo Section
+[params.promo]
+enable = true
+hook = "Fire Your Your Webmaster"
+detail = "Start getting better marketing results at lower costs."
+ctaButton = "Tell me more!"
+ctaURL = "tour"
+
+[params.promo.signup]
+enable = true
+hook = "Turn Your Business into a Lead Genertion Machine!"
+detail = "Signup for Our Free 10 Step Online Marketing Course"
+
+# Press section
+[params.press]
+enable = true
+
+# Why section
+[params.why]
+enable = false
+
+# Video section
+[params.video]
+enable = false
+
+# Faq section
+[params.faq]
+enable = false
