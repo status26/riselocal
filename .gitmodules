@@ -1,6 +1,3 @@
-[submodule "themes/hugo-theme-riselocal"]
-	path = themes/hugo-theme-riselocal
-	url = git@github.com:status26/hugo-theme-riselocal.git
 [submodule "themes/hugo-theme-tempo"]
 	path = themes/hugo-theme-tempo
 	url = git@github.com:status26/hugo-theme-tempo.git
