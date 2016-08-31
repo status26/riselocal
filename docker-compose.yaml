@@ -1,5 +1,5 @@
 podium:
-  image: nginx:1.11.3-alpine
+  image: nginx:alpine
   ports:
     - 80:80
   volumes:
