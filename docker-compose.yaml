@@ -5,4 +5,4 @@ podium:
   volumes:
     - ./public:/usr/share/nginx/html
     - ./nginx/conf.d/default.conf:/etc/nginx/conf.d/default.conf
-    - ./nginx/nginx.conf:/etc/nginx/default/nginx.conf
+    - ./nginx/nginx.conf:/etc/nginx/nginx.conf
