@@ -7,3 +7,5 @@ podium:
     - ./public:/usr/share/nginx/html
     - ./nginx/nginx.conf:/etc/nginx.conf
     - ./nginx/default.conf:/etc/nginx/conf.d/default.conf
+    - /etc/letsencrypt/archive/riselocal.com:/etc/nginx/ssl
+    - /etc/ssl/certs:/etc/nginx/dhparam
