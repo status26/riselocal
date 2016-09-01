@@ -6,7 +6,7 @@ tags = ["welcome", "hello world"]
 title = "hello world"
 topics = ["press"]
 author = "jwogrady"
-2016 = 08
+2016 = "08"
 
 +++
 
