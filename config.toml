@@ -11,6 +11,10 @@ topic = "topics"
 2017 = "2017"
 2018 = "2018"
 
+[params.logo]
+logo = "riselocal-logo.png"
+alt = "test test test"
+
 [params.social]
 facebook = "https://www.facebook.com/status26inc/"
 
