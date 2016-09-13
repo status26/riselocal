@@ -1,4 +1,4 @@
-baseurl = "https://riselocal.com/"
+baseurl = "http://riselocal.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-theme-tempo"
