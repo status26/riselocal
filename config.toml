@@ -40,11 +40,13 @@ detail = "Signup for Our Free Online Marketing Course for Business Owners"
 
 # Press section
 [params.press]
-enable = true
+enable = false
 
 # Why section
 [params.why]
-enable = false
+enable = true
+hook = "Why Use Tempo"
+detail = "More than 300,000 happy customers are using Tempo around the world"
 
 # Video section
 [params.video]
