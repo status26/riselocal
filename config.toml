@@ -45,8 +45,8 @@ enable = false
 # Why section
 [params.why]
 enable = true
-hook = "Why Use Tempo"
-detail = "More than 300,000 happy customers are using Tempo around the world"
+hook = "Why Rise Local"
+detail = "Our team has helped thousands of local businesses owners eliminate wasteful IT and Marketing spending while and increase thier sales."
 
 # Video section
 [params.video]
@@ -55,3 +55,11 @@ enable = false
 # Faq section
 [params.faq]
 enable = false
+
+[params.footer.about]
+headline = "About Rise Local"
+text = "Rise Local is a marketing operations company that delivers IT and Marketing services to local business owners. We have everything you need to generate more phone calls and leads from simple domain registration and web hosting fo a SEO optimized website with Local Search and PPC marketing campaigns."
+
+[params.footer.services]
+headline = "Services"
+services = [ "domains", "hosting", "websites", "SEO", "local search", "PPC" ]
