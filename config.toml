@@ -58,7 +58,7 @@ enable = false
 
 [params.footer.about]
 headline = "About Rise Local"
-text = "Rise Local is a marketing operations company that delivers IT and Marketing services to local business owners. We have everything you need to generate more phone calls and leads from simple domain registration and web hosting fo a SEO optimized website with Local Search and PPC marketing campaigns."
+text = "Rise Local is a marketing operations company that provides IT and Marketing services to local business owners. We have everything you need to generate more phone calls and leads for your business including domain name registration, web hosting, web design, SEO, local search marketing, pay-per-click management and more."
 
 [params.footer.services]
 headline = "Services"
