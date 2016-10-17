@@ -1,5 +1,5 @@
 +++
-title = "Domains"
+title = "Step 1 | Rule Your Domain"
 type = "roadmap"
 img = "570x360.png"
 imgalt = "Hello World"
@@ -8,5 +8,9 @@ weight = 1
 
 +++
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lobortis mattis erat, dictum facilisis magna posuere ac. Curabitur consectetur magna mauris, et aliquam lectus ornare nec. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris quis tellus magna.
+Acting as your domain registrar we can quickly provision and configure the services you need without the support headaches, but convenience is only the beginning.
+
+When you register a new domain or transferring an existing domain to us the first thing we do is verify you legally own and control your domain. Then we configure your domain to maximize your privacy and security. Throughout the year we will monitor your domain's registration status. With our auto-renewal service enabled you never have to worry about your domain expiring.
+
+Our domain portfolio management platform is for business owners so they never have to fear losing a domain from a staff change or service provider holding them hostage. We properly manage and secure your entire domain portfolio in one place so you have full control with all the support you need.
 <!--more-->
