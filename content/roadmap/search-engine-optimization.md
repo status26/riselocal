@@ -3,6 +3,7 @@ date = "2016-10-12T17:51:43-05:00"
 title = "Search Engine Optimization"
 img = "570x360.png"
 imgalt = ""
+weight = 4
 
 +++
 
