@@ -7,10 +7,9 @@ date = "2016-10-12T16:46:16-05:00"
 weight = 1
 
 +++
+Every service we provide involves your domain name making it the logical place to begin our process.
 
-Acting as your domain registrar we can quickly provision and configure the services you need without the support headaches, but convenience is only the beginning.
+We encourage new clients to consolidate their entire domain portfolio to our domain management platform to ensure they have full control and access to the support they need.
 
-When you register a new domain or transferring an existing domain to us the first thing we do is verify you legally own and control your domain. Then we configure your domain to maximize your privacy and security. Throughout the year we will monitor your domain's registration status. With our auto-renewal service enabled you never have to worry about your domain expiring.
-
-Our domain portfolio management platform is for business owners so they never have to fear losing a domain from a staff change or service provider holding them hostage. We properly manage and secure your entire domain portfolio in one place so you have full control with all the support you need.
+Each new registration and transfer extends that domain's registration period by one year. After that we will monitor your registration status and processing the renewals on your behalf as they become due.
 <!--more-->

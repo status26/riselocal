@@ -2,9 +2,9 @@
 img = "570x360.png"
 imgalt = ""
 date = "2016-10-12T17:53:42-05:00"
-title = "Paid Search Marketing"
+title = "Step 6 | Launch Your Pay-Per-Click Campaign"
 weight = 6
 
 +++
-Now that you have maximized your "Earned Media" channels you are ready to begin buying traffic. And since you have laid a solid foundation your can buy clicks at lower costs which increases both your lead volume and lead costs.
+At this point we resolved your domain and website support issues, deployed a beautiful new website, and maximized your "earned" online marketing channels. You are now ready to begin buying traffic. And since you now have a proper marketing foundation, you will be able to buy clicks at lower costs. That increases your lead volume while lowering your lead costs!
 <!--more-->
