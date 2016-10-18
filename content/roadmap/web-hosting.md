@@ -1,6 +1,6 @@
 +++
-img = "570x360.png"
-imgalt = ""
+img = "website-migration.png"
+imgalt = "free website migration fixes your immediate IT and marketing needs"
 date = "2016-10-12T17:51:26-05:00"
 title = "Step 2 | Fix Your Immediate IT and Marketing Issues"
 weight = 2

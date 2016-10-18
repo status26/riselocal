@@ -1,6 +1,6 @@
 +++
-imgalt = ""
-img = "570x360.png"
+imgalt = "local search increases your local visibility"
+img = "local-search-marketing.png"
 date = "2016-10-12T17:54:37-05:00"
 title = "Step 5 | Submit and Verify Your Local Profile"
 weight = 5

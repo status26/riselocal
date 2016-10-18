@@ -1,6 +1,6 @@
 +++
-imgalt = ""
-img = "570x360.png"
+imgalt = "claim and optimize all your social media marketing profiles"
+img = "social-media-marketing.png"
 date = "2016-10-12T17:54:37-05:00"
 title = "Step 4 | Claim and Optimize Your Social Identity"
 weight = 4

@@ -1,6 +1,6 @@
 +++
-img = "570x360.png"
-imgalt = ""
+img = "pay-per-click-marketing.png"
+imgalt = "Pay Per Click Campaign that increase lead volume and lower costs"
 date = "2016-10-12T17:53:42-05:00"
 title = "Step 6 | Launch Your Pay-Per-Click Campaign"
 weight = 6
