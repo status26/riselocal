@@ -5,7 +5,7 @@ imgalt = "need a new website"
 title = "What to look for in a website"
 tags = ["placeholder", "sample"]
 topics = ["example"]
-author = "jwogrady"
+author = "realmikestewart"
 2016 = "08"
 
 +++
