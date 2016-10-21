@@ -1,6 +1,6 @@
 baseurl = "http://riselocal.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Rise Local - Domains, Hosting, Websites and Digital Marketing"
 theme = "hugo-theme-tempo"
 disqusShortname = "risedev"
 
@@ -13,7 +13,7 @@ topic = "topics"
 
 [params.logo]
 logo = "riselocal-logo.png"
-alt = "test test test"
+alt = "riselocal logo"
 
 [params.social]
 facebook = "https://www.facebook.com/status26inc/"
@@ -28,14 +28,14 @@ detail = "....then don't miss this opportunity to sign up for our FREE marketing
 # Promo Section
 [params.promo]
 enable = true
-hook = "Fire Your Your Webmaster"
+hook = "Fire Your Webmaster"
 detail = "Start getting better marketing results at lower costs."
 ctaButton = "Tell me more!"
 ctaURL = "tour"
 
 [params.promo.signup]
 enable = true
-hook = "Turn your local business into a Lead Genertion Machine!"
+hook = "Turn your local business into a Lead Generation Machine!"
 detail = "Signup for Our Free Online Marketing Course for Business Owners"
 
 # Press section
@@ -46,7 +46,7 @@ enable = false
 [params.why]
 enable = true
 hook = "Why Rise Local"
-detail = "Our team has helped thousands of local businesses owners eliminate wasteful IT and Marketing spending while and increase thier sales."
+detail = "Our team has helped thousands of local businesses owners eliminate wasteful IT and Marketing spending while increasing thier sales."
 
 # Video section
 [params.video]
