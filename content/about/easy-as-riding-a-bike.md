@@ -4,5 +4,5 @@ icon = "pe-7s-bicycle"
 title = "Easy as riding a..."
 
 +++
-Purchasing small business IT and Marketing services has never been easier. Simply select the services you need and we get to work. No meetings, setup costs, or long term contracts.
+Purchasing small business IT and Marketing services has never been easier. Simply select the services you need and we get to work. No meetings, setup costs, or long term contracts. Everything you need to get more leads in one bill. 
 <!--more-->

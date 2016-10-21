@@ -7,7 +7,7 @@ date = "2016-10-12T16:46:16-05:00"
 weight = 1
 
 +++
-Every service we provide involves your domain name making it the logical place to begin our process.
+Every service we provide involves your domain name making it the most logical place to begin our process.
 
 We encourage new clients to consolidate their entire domain portfolio to our domain management platform to ensure they have full control and access to the support they need.
 
