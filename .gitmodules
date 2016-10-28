@@ -1,6 +1,6 @@
 [submodule "themes/hugo-theme-tempo"]
 	path = themes/hugo-theme-tempo
-	url = git@github.com:status26/hugo-theme-tempo.git
+	url = https@github.com:status26/hugo-theme-tempo.git
 [submodule "themes/rise"]
 	path = themes/rise
 	url = https://github.com/status26/rise.git
