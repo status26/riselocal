@@ -1,6 +1,6 @@
 baseurl = "http://riselocal.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Rise Local - Digital Marketing Solutions for Entreprenuers"
 theme = "hugo-theme-tempo"
 disqusShortname = "risedev"
 
@@ -20,15 +20,15 @@ facebook = "https://www.facebook.com/status26inc/"
 
 [params.signup]
 enable = true
-hook = "Are You Crazy?"
-detail = "....then don't miss this opportunity to sign up for our FREE marketing course."
+hook = "Are You Crazy? We Have Digital Marketing Solutions For Businesses of all Shapes & Sizes"
+detail = "....then don't miss this opportunity to learn what you need to do to get more leads!"
 
 # PAGE CONFIG
 
 # Promo Section
 [params.promo]
 enable = true
-hook = "Fire Your Your Webmaster"
+hook = "Fire Your Your Lazy Webmaster"
 detail = "Start getting better marketing results at lower costs."
 ctaButton = "Tell me more!"
 ctaURL = "tour"
@@ -46,7 +46,7 @@ enable = false
 [params.why]
 enable = true
 hook = "Why Rise Local"
-detail = "Our team has helped thousands of local businesses owners eliminate wasteful IT and Marketing spending while and increase thier sales."
+detail = "Our team has helped thousands of local businesses owners eliminate wasteful IT and Marketing spending while and increase thier sales. We have the experience and digital marketing products to grow your customer base"
 
 # Video section
 [params.video]
@@ -62,4 +62,4 @@ text = "Rise Local is a marketing operations company that provides IT and Market
 
 [params.footer.services]
 headline = "Services"
-services = [ "domains", "hosting", "websites", "SEO", "local search", "PPC" ]
+services = [ "domains", "hosting", "websites", "SEO", "local search", "pay per click" ]
