@@ -4,4 +4,6 @@ draft = true
 title = "hosting"
 
 +++
-
+This is intro text.
+<--! more -->
+This is the detail.
