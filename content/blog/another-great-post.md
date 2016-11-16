@@ -9,6 +9,6 @@ author = "realmikestewart"
 2016 = "08"
 
 +++
-Is it time to update your website? Most business owners wait until the last minute to freshen up a website because they know it is going to cost an arm and a leg, they will just have to do it again in a few more years, and they don't know how to prepare themselves to start the conversation. 
+Is it time to update your website? Most business owners wait until the last minute to freshen up a website because they know it is going to cost an arm and a leg, they will just have to do it again in a few more years, and they don't know how to prepare themselves to start the conversation.
 
-Our goal was to eliminate the typical approach to websites. 
+Our goal was to eliminate the typical approach to websites.

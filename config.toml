@@ -1,6 +1,6 @@
 baseurl = "http://riselocal.com/"
 languageCode = "en-us"
-title = "Rise Local - Domains, Hosting, Websites and Digital Marketing"
+title = "Rise Local - IT, Identity, and Marketing"
 theme = "hugo-theme-tempo"
 disqusShortname = "risedev"
 
@@ -20,8 +20,8 @@ facebook = "https://www.facebook.com/status26inc/"
 
 [params.signup]
 enable = true
-hook = "Are You Crazy?"
-detail = "....then don't miss this opportunity to sign up for our FREE marketing course."
+hook = "Are You Crazy? We Have Digital Marketing Solutions For Businesses of all Shapes & Sizes"
+detail = "....then don't miss this opportunity to learn what you need to do to get more leads!"
 
 # PAGE CONFIG
 
@@ -62,4 +62,4 @@ text = "Rise Local is a marketing operations company that provides IT and Market
 
 [params.footer.services]
 headline = "Services"
-services = [ "domains", "hosting", "websites", "SEO", "local search", "PPC" ]
+services = [ "domains", "hosting", "websites", "SEO", "local search", "pay per click" ]
