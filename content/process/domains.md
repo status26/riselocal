@@ -1,6 +1,5 @@
 +++
 title = "Step 1 | Rule Your Domain"
-type = "roadmap"
 img = "domain-registration.png"
 imgalt = "register and transfer domain names"
 date = "2016-10-12T16:46:16-05:00"
