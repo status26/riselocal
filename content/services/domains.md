@@ -4,4 +4,6 @@ draft = true
 title = "domains"
 
 +++
-
+This is intro text.
+<--! more -->
+This is the detail.

@@ -4,4 +4,6 @@ draft = true
 title = "local search"
 
 +++
-
+This is intro text.
+<--! more -->
+This is the detail.

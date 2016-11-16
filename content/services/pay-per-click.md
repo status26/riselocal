@@ -4,4 +4,6 @@ draft = true
 title = "pay per click"
 
 +++
-
+This is intro text.
+<--! more -->
+This is the detail.
