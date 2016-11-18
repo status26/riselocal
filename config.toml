@@ -4,6 +4,8 @@ title = "Rise Local - IT, Identity, and Marketing"
 theme = "hugo-theme-tempo"
 disqusShortname = "risedev"
 
+SectionPagesMenu = "main"
+
 [taxonomies]
 tag = "tags"
 topic = "topics"
