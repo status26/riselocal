@@ -1,9 +1,9 @@
 +++
 date = "2016-11-19T23:12:59-06:00"
 title = "techlion"
-img = ""
+img = "card/5.jpg"
 imgalt = ""
-services = ""
+services = "card"
 
 +++
 <div class="portfolio card" data-cat="card">
@@ -17,4 +17,4 @@ services = ""
       <div class="label-bg"></div>
     </div>
   </div>
-</div>	
+</div>

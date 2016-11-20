@@ -1,9 +1,9 @@
 +++
 imgalt = ""
-services = ""
+services = "app"
 date = "2016-11-19T23:24:52-06:00"
 title = "kittypic"
-img = ""
+img = "app/1.jpg"
 
 +++
 <div class="portfolio logo" data-cat="logo">

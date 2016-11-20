@@ -1,9 +1,4 @@
 +++
-tags = [
-  "",
-  "",
-  "",
-]
 img = "logo/5.jpg"
 imgalt = ""
 services = "logo"

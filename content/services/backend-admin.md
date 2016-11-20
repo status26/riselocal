@@ -1,9 +1,9 @@
 +++
 imgalt = ""
-services = ""
+services = "web"
 date = "2016-11-19T23:14:40-06:00"
 title = "backend admin"
-img = ""
+img = "web/3.jpg"
 
 +++
 <div class="portfolio web" data-cat="web">
