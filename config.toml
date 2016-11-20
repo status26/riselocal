@@ -9,6 +9,7 @@ SectionPagesMenu = "main"
 [taxonomies]
 tag = "tags"
 topic = "topics"
+serivces = "services"
 2016 = "2016"
 2017 = "2017"
 2018 = "2018"
