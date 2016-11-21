@@ -5,8 +5,7 @@ img = "icon/5.jpg"
 imgalt = ""
 services = "icon"
 
-+++
-<div class="portfolio icon" data-cat="icon">
++++<div class="portfolio icon" data-cat="icon">
   <div class="portfolio-wrapper">						
     <img src="img/portfolios/icon/5.jpg" alt="" />
     <div class="label">
