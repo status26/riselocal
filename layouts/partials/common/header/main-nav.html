@@ -11,7 +11,17 @@
         <ul class="nav navbar-nav">
             <li class="active nav-item"><a href="{{ .Site.BaseURL }}">Home</a></li>
             <li class="nav-item"><a href="{{ .Site.BaseURL }}about/">About</a></li>
-            <li class="nav-item"><a href="{{ .Site.BaseURL }}services/">Services</a></li>
+            <li class="nav-item dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="{{ .Site.BaseURL }}services/">Services <i class="fa fa-angle-down"></i></a>
+                <ul class="dropdown-menu">
+                    <li><a href="{{ .Site.BaseURL }}services/">All Services</a></li>
+                    <li><a href="{{ .Site.BaseURL }}services/app/">Apps</a></li>
+                    <li><a href="{{ .Site.BaseURL }}services/card/">Cards</a></li>
+                    <li><a href="{{ .Site.BaseURL }}services/icon/">Icons</a></li>
+                    <li><a href="{{ .Site.BaseURL }}services/logo/">Logos</a></li>
+                    <li><a href="{{ .Site.BaseURL }}services/web/">Websites</a></li>
+                </ul>
+            </li><!--//dropdown-->
             <li class="nav-item"><a href="{{ .Site.BaseURL }}process/">Process</a></li>
             <li class="nav-item"><a href="{{ .Site.BaseURL }}blog/">Blog</a></li>
             <li class="nav-item"><a href="{{ .Site.BaseURL }}contact/">Contact</a></li>
