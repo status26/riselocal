@@ -9,7 +9,7 @@ SectionPagesMenu = "main"
 [taxonomies]
 tag = "tags"
 topic = "topics"
-serivces = "services"
+services = "services"
 2016 = "2016"
 2017 = "2017"
 2018 = "2018"
@@ -18,7 +18,8 @@ serivces = "services"
 logo = "riselocal-logo.png"
 alt = "riselocal logo"
 
-[params.social]
+[params.social.facebook]
+enable = true
 facebook = "https://www.facebook.com/status26inc/"
 
 [params.signup]
