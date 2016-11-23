@@ -6,15 +6,3 @@ img = "logo/4.jpg"
 imgalt = ""
 
 +++
-<div class="portfolio logo" data-cat="logo">
-  <div class="portfolio-wrapper">			
-    <img src="img/portfolios/logo/4.jpg" alt="" />
-    <div class="label">
-      <div class="label-text">
-        <a class="text-title">Bookworm</a>
-        <span class="text-category">Logo</span>
-      </div>
-      <div class="label-bg"></div>
-    </div>
-  </div>
-</div>
