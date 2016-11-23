@@ -1,12 +1,12 @@
 +++
-date = "2016-11-28T16:18:34-05:00"
-img = "hello-world.gif"
-imgalt = "Hello World"
-tags = ["welcome", "hello world"]
 title = "Hello World"
-topics = ["press"]
-author = "jwogrady"
+date = "2016-11-28T16:18:34-05:00"
 2016 = "11"
+topics = ["press"]
+tags = ["welcome", "hello world"]
+img = ""
+imgalt = ""
+author = "jwogrady"
 
 +++
 

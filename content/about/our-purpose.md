@@ -1,8 +1,8 @@
 +++
 date = "2016-11-22T11:41:41-06:00"
 title = "our purpose"
-img = "570x360.png"
-imgalt = "rise local story"
+img = ""
+imgalt = ""
 
 +++
 For years local media companies, marketing agencies, and technology service providers have been abusing small business owners with high prices, aggressive sales tactics, lousy support, and terrible business results. This has left business owners questioning what they need and who they can trust.

@@ -2,8 +2,8 @@
 date = "2016-10-19T12:15:33-03:00"
 name = "Virginia Hammerle"
 business = "Founder of Hammerle Finley Law Firm"
-photo = "profile-image.png"
-alt = "organic, local and paid search for a law firm."
+img = ""
+imgalt = ""
 type = "testimonials"
 noindex = "true"
 

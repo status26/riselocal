@@ -1,8 +1,8 @@
 +++
 date = "2016-11-22T11:41:41-06:00"
 title = "our story"
-img = "570x360.png"
-imgalt = "rise local story"
+img = ""
+imgalt = ""
 
 +++
 The Rise Local story began in 2009 when, Mike Stewart and John O'Grady decided to do something never heard of in the local media company - tell customers the truth.

@@ -2,8 +2,8 @@
 date = "2016-10-19T12:15:33-04:00"
 name = "Julie Dickens"
 business = "Doody Calls Pet Waste Removal"
-photo = "profile-image.png"
-alt = "website design and SEO for a pet waste removal service."
+img = ""
+imgalt = ""
 type = "testimonials"
 noindex = "true"
 
