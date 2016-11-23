@@ -4,6 +4,7 @@ icon = "pe-7s-rocket"
 title = "Ready to Launch!"
 type = "why"
 noindex = "true"
+url = "/about/ready-to-launch/"
 
 +++
 We got the photos, layouts, marketing copy, and ad text tailored to your industry ready to go! Your new custom website and online marketing campaigns will be up and running in less than 24 hours. Guaranteed.
