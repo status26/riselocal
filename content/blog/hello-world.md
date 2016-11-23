@@ -3,14 +3,14 @@ date = "2016-08-28T16:18:34-05:00"
 img = "hello-world.gif"
 imgalt = "Hello World"
 tags = ["welcome", "hello world"]
-title = "Hello World"
+title = "Why the code really makes a difference"
 topics = ["press"]
 author = "jwogrady"
 2016 = "08"
 
 +++
 
-To commemorate the new launch of our new website our developers decided to say "Hello World" in their favorite programming language.
+To commemorate the new launch of our new website our developers decided to share what they think about websites and website code. 
 <!--more-->
 
 Bash
