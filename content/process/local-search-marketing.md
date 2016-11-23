@@ -7,6 +7,7 @@ weight = 5
 
 +++
 Now that we have created, optimized and consolidated your social media accounts its time increase you local visibility with a local search listings campaign.
+<!--more-->
 
 Our process is straightforward. First, we create and broadcast your Master Location Profile to the major data aggregators so they can begin distributing your location data to other website and software application developers that consume your location data. Second, our marketing operations teams manually submits and verifies your data to the Top 50 plus most authoritative local search directories.
 

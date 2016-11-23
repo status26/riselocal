@@ -6,6 +6,7 @@ imgalt = "rise local story"
 
 +++
 For years local media companies, marketing agencies, and technology service providers have been abusing small business owners with high prices, aggressive sales tactics, lousy support, and terrible business results. This has left business owners questioning what they need and who they can trust.
+<!--more-->
 
 To solve this problem we build a platform that replaces your domain registrar, host provider, web designer and marketing company with one relationship where everyone works together to grow your business.
 
