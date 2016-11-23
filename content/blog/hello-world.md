@@ -1,12 +1,12 @@
 +++
-date = "2016-08-28T16:18:34-05:00"
+date = "2016-11-28T16:18:34-05:00"
 img = "hello-world.gif"
 imgalt = "Hello World"
 tags = ["welcome", "hello world"]
 title = "Hello World"
 topics = ["press"]
 author = "jwogrady"
-2016 = "08"
+2016 = "11"
 
 +++
 
