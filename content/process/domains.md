@@ -1,12 +1,13 @@
 +++
 title = "Step 1 | Rule Your Domain"
-img = "domain-registration.png"
-imgalt = "register and transfer domain names"
 date = "2016-10-12T16:46:16-05:00"
+img = ""
+imgalt = ""
 weight = 1
 
 +++
 Every service we provide involves your domain name making it the most logical place to begin our process.
+<!--more-->
 
 We encourage new clients to consolidate their entire domain portfolio to our domain management platform to ensure they have full control and access to the support they need.
 

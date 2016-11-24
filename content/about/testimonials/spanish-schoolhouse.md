@@ -2,8 +2,8 @@
 date = "2016-10-19T12:15:33-05:00"
 name = "Robin Maloney"
 business = "Director of Marketing"
-photo = "profile-image.png"
-alt = "local search for multi location brand."
+img = ""
+imgalt = ""
 type = "testimonials"
 noindex = "true"
 
