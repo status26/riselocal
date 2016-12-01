@@ -10,7 +10,11 @@ author = "jwogrady"
 
 +++
 
-To commemorate the new launch of our new website our developers decided to say "Hello World" in their favorite programming language.
+Welcome to our new website. This is our first post.
+<!--more-->
+
+To commemorate our new website I asked our developers to submit a "Hello World" script in their favorite programming language.
+
 <!--more-->
 
 Bash

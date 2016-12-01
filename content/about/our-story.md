@@ -5,13 +5,24 @@ img = ""
 imgalt = ""
 
 +++
-The Rise Local story began in 2009 when, Mike Stewart and John O'Grady decided to do something never heard of in the local media company - tell customers the truth.
+The Rise Local story began in 2009 when Mike Stewart and John O'Grady decided to do something never heard of in the local media company - tell customers the truth about what it takes to achieve great marketing results!
 <!--more-->
 
-As you can imagine, "The Man" didn't really appreciate the guys sticking it to him.
+The truth is advertising is not enough. Your company needs a platform, process, and people working together to achieve great marketing results.
 
-Everyone responds to getting fired differently. Mike's starting a highly respected digital media company that developed a reputation for delivering great business results. John ran off to Thailand to build stuff.
+## Platform
+Before Rise Local John was an operation manager at one of the largest local media companies in the world. At a very large scale, John witnessed the fear and frustration business owners experience dealing with IT and Marketing services. Simple things often escalated into major ordeals as the client struggle to figure out who controlled, and in some cases owned, their domain names and hosting accounts. These speed bumps often took a major toll on the company's marketing success.
 
-By 2013 John ran out of money and gave Mike a call. The two agreed to meet in Kansas City at a tech incubator called Home for Hackers to exchange ideas on ways to help local service businesses and professional service organization eliminate wasteful spending and generate more phone calls and leads off their websites.
+The solution John built is called ZoneDock. Launched in 2014, ZoneDock is a unified service architecture that make it possible consolidate all mission critical IT services into a one billing and support relationship. With ZoneDock business owners enjoy the confidence of having full control with all the support and services they need to market their business available on demand.
 
-Over the course of a cold winter weekend it became apparent to Mike and John that between them they had the core components needed to deliver high-end IT Services, Website Support, and Marketing Services efficiently, effectively, and at low cost.
+## Process
+After ZoneDock launched Mike and John started digging into marketing fufillment. Our technical background made us naturally curious about the systems and tools marketing agencies used to work their magic. We were shocked with what we found!
+
+Local marketing agencies treat every marketing engagement as a one-off project. That is by design because anything that created economies of scale gets met with fierce resistance. The truth is agencies get a margin by making you think they are busy working hard on complicated tasks.
+
+The truth is 70% of the work an local marketing agency does is focused on new customer acquisition. About 20% on administrative work. We found that a mere 10% of time was devoted to marketing activity. Even more amazing, the people doing the actual marketing tasks tended to be unpaid interns.
+
+Mike and John were disgusted with the lack of transparency in a marketing agency. We decided Rise Local would be different. We were going to be process driven. "Wal-Mart" inspires us because they root out inefficiency so they can deliver better value to the customer. We designed every market service as a process that does the same.
+
+## People
+The key to making Platform and Process work is People. It's starts by listening with our hearts as much as our ears. That's exactly the kind of people you will find at Rise Local. People who understand what needs to be done necessary to improve your business results.

@@ -9,6 +9,7 @@ url = "/about/one-stop-shop/"
 +++
 Imagine how easy it would be if you had a dedicated team for all your IT and Marketing services.
 <!--more-->
+
 Most companies juggle a lot of accounts to get the IT and marketing services they need. That is because their domain, hosting, website, marketing, and IT services are spread out across a half dozen vendors! This creates a lot of problems!
 
 Most companies are paying too much for services they may not even need. Even worse, a lack of shared access among vendors puts your business at risk of serious downtime.
