@@ -27,4 +27,4 @@ These are just a few of the hundreds of tasks that have to be completed, monitor
 
 Getting things done is, at its core, is why local small business owners trust Rise Local.
 
-In short, Chomp, Chomp, Chomp instead of Blah, Blah, Blah has a more positive impact on your business.
+In short, more Chomp, Chomp, Chomp and less Blah, Blah, Blah will have a more positive impact on your business.

@@ -7,13 +7,11 @@ noindex = "true"
 url = "/about/one-stop-shop/"
 
 +++
-Imagine how easy it would be if you had a dedicated team for all your IT and Marketing services.
+Imagine how fast you could grow if you had a dedicated team managing your IT and Marketing services. Wish no more.
 <!--more-->
 
-Most companies juggle a lot of accounts to get the IT and marketing services they need. That is because their domain, hosting, website, marketing, and IT services are spread out across a half dozen vendors! This creates a lot of problems!
+Most companies have to juggle multiple accounts to get the IT and marketing services they need to grow their business. That is because their domain, hosting, website, marketing, and IT services are spread out across a half dozen vendors! This drives up costs and puts your business at risk.
 
-Most companies are paying too much for services they may not even need. Even worse, a lack of shared access among vendors puts your business at risk of serious downtime.
-
-Stop the madness! Rise Local will consolidate all your domains, email addresses, hosting accounts and marketing services to our platform. After that everything you need will be on one bill backed by incredible support!
+Stop waisting time and money! Rise Local will consolidate all your domains, email addresses, hosting accounts and marketing services to our platform. We will even eliminate services you don't need. After that everything will be on one bill backed by our incredible support team!
 
 Purchasing and managing small business IT and Marketing services has never been easier!

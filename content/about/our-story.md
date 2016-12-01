@@ -5,24 +5,24 @@ img = ""
 imgalt = ""
 
 +++
-The Rise Local story began in 2009 when Mike Stewart and John O'Grady decided to do something never heard of in the local media company - tell customers the truth about what it takes to achieve great marketing results!
+The Rise Local story began in 2009 when Mike Stewart and John O'Grady decided to do something never heard of in the local media company - tell customers the truth!
 <!--more-->
 
-The truth is advertising is not enough. Your company needs a platform, process, and people working together to achieve great marketing results.
+The truth is advertising is not enough. It takes a platform, process, and people to achieve great marketing results.
 
 ## Platform
-Before Rise Local John was an operation manager at one of the largest local media companies in the world. At a very large scale, John witnessed the fear and frustration business owners experience dealing with IT and Marketing services. Simple things often escalated into major ordeals as the client struggle to figure out who controlled, and in some cases owned, their domain names and hosting accounts. These speed bumps often took a major toll on the company's marketing success.
+Before Rise Local John was an operation manager at one of the largest local media companies in the world. On a very large scale John witnessed the fear and frustration business owners experienced dealing with IT and Marketing services companies. Simple things often escalated into major ordeals as the client struggled to figure out who controlled, and in some cases owned, their domain names and hosting accounts. The loss of momentum took a major toll on the company's marketing success.
 
-The solution John built is called ZoneDock. Launched in 2014, ZoneDock is a unified service architecture that make it possible consolidate all mission critical IT services into a one billing and support relationship. With ZoneDock business owners enjoy the confidence of having full control with all the support and services they need to market their business available on demand.
+The solution is ZoneDock. Launched in 2014, ZoneDock is a unified service architecture that make it possible for Rise Local to consolidate all mission critical IT services into a single billing and support relationship. With ZoneDock business owners enjoy the confidence of having full control over all their service with easy access to the services they need to grow their business.
 
 ## Process
-After ZoneDock launched Mike and John started digging into marketing fufillment. Our technical background made us naturally curious about the systems and tools marketing agencies used to work their magic. We were shocked with what we found!
+After ZoneDock launched Mike and John started digging into marketing fufillment. Our technical background made us naturally curious about the systems and tools marketing agencies use to work their magic. We were shocked with what we found!
 
-Local marketing agencies treat every marketing engagement as a one-off project. That is by design because anything that created economies of scale gets met with fierce resistance. The truth is agencies get a margin by making you think they are busy working hard on complicated tasks.
+Local marketing agencies treat every marketing engagement as a one-off project. That is because agencies make money by making you think they are busy working hard on complicated tasks.
 
-The truth is 70% of the work an local marketing agency does is focused on new customer acquisition. About 20% on administrative work. We found that a mere 10% of time was devoted to marketing activity. Even more amazing, the people doing the actual marketing tasks tended to be unpaid interns.
+The truth is 70% of the work local marketing agencies do is focused on new customer acquisition. About 20% on administrative work. A mere 10% of time was devoted to marketing activity. Even more amazing, a large percentage of those performing those marketing tasks were unpaid interns.
 
-Mike and John were disgusted with the lack of transparency in a marketing agency. We decided Rise Local would be different. We were going to be process driven. "Wal-Mart" inspires us because they root out inefficiency so they can deliver better value to the customer. We designed every market service as a process that does the same.
+Mike and John were disgusted with the intentional smoke screen so we decided Rise Local would do things different. Wal-Mart inspires us because they root out inefficiency so they can deliver better value to their customer. That's exactly what we aim to do with IT and Marketing services.
 
 ## People
-The key to making Platform and Process work is People. It's starts by listening with our hearts as much as our ears. That's exactly the kind of people you will find at Rise Local. People who understand what needs to be done necessary to improve your business results.
+Platform and Process only work with great People who listen with our hearts as much as our ears. That's exactly the kind of people you will find at Rise Local. People who know and understand the things that need to be done to improve your business results.
