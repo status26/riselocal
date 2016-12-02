@@ -4,6 +4,23 @@ draft = true
 title = "pay per click"
 
 +++
+## PPC Management Overview:
+For over 15 years Rise Local's founders have been providing PPC Management to small and medium-sized businesses saving them from wasting precious advertising dollars to clicks that don't turn into customers.
+
+We’ve built the best platform and tools that help us do one thing and one thing really well when it comes to paid search and that is build a better campaign architecture and make the campaign perform to the businesses goals and resources. We understand just how important your PPC investment and results are to your bottom line. This is exactly why we focus on PPC and making the website attract, engage, and convert like nobody else.
+
+The problem with agencies that only do paid search is that they fail at improving what really matters, the user experience on the website. If your PPC people don't know how to create custom landing pages, proper SEO, and good content and design they are only doing 1/2 of the job. Many times they also add on website development and conversion but it is never the main focus or a skill that they have enough experience in to make a significant improvement to your customers user experience after the click to your website. Don't make this mistake.
+
+**Special Message: No Long-Term Contracts – Service is Month to Month.**
+**Our clients choose to work with us each month based on value.**
+**Service can be canceled any time after the first month.**
+
+## Full Service PPC Management
+PPC Management is the ongoing process of building, maintaining and analyzing advertising campaigns at Google AdWords, Bing & Yahoo Ads and Facebook Ads to achieve the best click and call results possible. These platforms are highly complicated and constantly changing. PPC management is necessary to determine the outcomes and results of the money invested into paid search marketing. When we say Full Service Management we mean that our clients do not need to log into their account to maintain and update billing, make changes to ads or budgets, or even do their own keyword research. We do it all for you. This includes monitoring and scoring calls from our dynamic conversion tracking scripts. When you want to stop wasting money it is time to hire Professional PPC Management by Rise Local.  
+
+## Full Service PPC Management Details >
+We manage budgets from $300.00 a month to $30,000.00 per month.
+
 
 | Paid Search Build  | Paid Search Mgmt | Paid Search Conversion Tracking |
 | ------- | ---- | --- |
@@ -31,11 +48,12 @@ A) In the world of pay-per-click advertising, a keyword can have many different 
 Q) How Long Does It Take for PPC to Work?
 A) To build a paid search campaign it usually takes between 48 hours and as much as a week. The timeframe to complete a campaign build depends on whether a campaign exists that needs to be improved or if a new campaign needs to be built. Factors that determine the time also include setting up analytics, call tracking, and retargeting creative banners. We can get started on improving or launching your paid search campaigns today!
 
-Q) What Does the Process Look Like?
-A) Click Here for Details on Our Process
+Q) What about Account Reporting and Transparency?
+A) Complete PPC Transparency
+All of our work is done completely within your PPC accounts. We just take care of everything while you’re working with us. The work we do and the accounts themselves always stay with you and your business, with or without Rise Local. We understand that PPC accounts and their history at Google AdWords and others are a business asset for each of our clients, and at Rise Local we keep it that way. Your campaigns are always fully accessible, transferable and funded via escrow. This is what we call “Complete Transparency.”
+
+Q) How Long is the PPC Campaign?
+A) Your product subscription will be renewed automatically at the end of each subscription period and your chosen payment method will be debited at the full rate unless you cancel your product subscription from within your account in Aware prior to the renewal date.
 
 Q) Why Choose Rise Local?
 A) Rise Local has decades of experience helping thousands of business owners optimize their online presence and potential.
-
-Q) How Long is the PPC Campaign?
-A) Your product subscription will be renewed automatically at the end of each subscription period and your chosen payment method will be debited at the full rate unless you cancel your product subscription from within your account settings prior to the renewal date.
