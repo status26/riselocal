@@ -1,0 +1,5 @@
+{{ define "main" }}
+ {{ if .Site.Params.about.why.enable }}
+  {{ partial "home/why/block.html" . }}
+ {{ end }}
+{{ end }}
