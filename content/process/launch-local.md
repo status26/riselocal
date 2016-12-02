@@ -1,6 +1,6 @@
 +++
 date = "2016-10-12T17:54:37-05:00"
-title = "Step 2 | Launch the Local Campaign"
+title = "Launch the Local Campaign"
 img = ""
 imgalt = ""
 weight = 2

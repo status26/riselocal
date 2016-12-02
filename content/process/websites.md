@@ -1,6 +1,6 @@
 +++
 date = "2016-10-12T17:53:01-05:00"
-title = "Step 3 | Deploy a NEW Websites That Converts Visitors Into Customers"
+title = "Deploy a NEW Websites That Converts Visitors Into Customers"
 img = ""
 imgalt = ""
 weight = 3

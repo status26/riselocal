@@ -1,6 +1,6 @@
 +++
 date = "2016-10-12T17:54:37-05:00"
-title = "Step 4 | Claim and Optimize Your Social Identity"
+title = "Claim and Optimize Your Social Identity"
 img = ""
 imgalt = ""
 weight = 4

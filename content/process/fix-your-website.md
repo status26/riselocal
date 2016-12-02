@@ -1,6 +1,6 @@
 +++
 date = "2016-10-12T17:51:26-05:00"
-title = "Step 3 | Fix Your Website"
+title = "Fix Your Website"
 img = ""
 imgalt = ""
 weight = 3

@@ -1,6 +1,6 @@
 +++
 date = "2016-10-12T17:53:42-05:00"
-title = "Step 6 | Launch Your Pay-Per-Click Campaign"
+title = "Launch Your Pay-Per-Click Campaign"
 img = ""
 imgalt = ""
 weight = 6

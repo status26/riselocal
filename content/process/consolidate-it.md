@@ -1,5 +1,5 @@
 +++
-title = "Step 1 | Consolidate You IT Services"
+title = "Consolidate You IT Services"
 date = "2016-10-12T16:46:16-05:00"
 img = ""
 imgalt = ""
