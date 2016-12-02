@@ -77,13 +77,20 @@ enable = false
 hook = "Why Rise Local"
 detail = "Our team has helped thousands of local businesses owners eliminate wasteful IT and Marketing spending while increasing thier sales."
 
+### Services
+[params.home.services.info]
+enable = true
+
+[params.home.services.portfolio]
+enable = true
+
 ### Video Partial
 [params.home.video]
 enable = false
 
 ### Faq Partial
 [params.home.faq]
-enable = true
+enable = false
 
 ## ABOUT
 
