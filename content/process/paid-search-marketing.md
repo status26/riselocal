@@ -1,9 +1,9 @@
 +++
 date = "2016-10-12T17:53:42-05:00"
-title = "Launch Your Pay-Per-Click Campaign"
+title = "Launch Your Paid Campaigns"
 img = ""
 imgalt = ""
-weight = 6
+weight = 4
 
 +++
 At this point we resolved your domain and website support issues, deployed a beautiful new website, and maximized your "earned" online marketing channels.

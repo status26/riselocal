@@ -1,9 +1,9 @@
 +++
 date = "2016-10-12T17:54:37-05:00"
-title = "Claim and Optimize Your Social Identity"
+title = "Enhance Your Brand"
 img = ""
 imgalt = ""
-weight = 4
+weight = 5
 
 +++
 Now that your new website is up and ready its time to create and optimize your social media profiles.
