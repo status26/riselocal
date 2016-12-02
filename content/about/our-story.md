@@ -5,21 +5,13 @@ img = "our-story.png"
 imgalt = "rise local story"
 
 +++
-<<<<<<< HEAD
-The Rise Local story began in 2009 when, Mike Stewart and John O'Grady decided to do something never heard of in the local media company - tell customers the truth.
-=======
 The Rise Local story began in 2009 when Mike Stewart and John O'Grady decided to do something never heard of in the local media company - tell customers the truth!
 <!--more-->
->>>>>>> b3a2afc9d91aab6f5d59a8f711e047dc8f12447c
 
 The truth is advertising is not enough. It takes a platform, process, and people to achieve great marketing results.
 
-<<<<<<< HEAD
-Everyone responds to the death of a local media monopoly differently. Mike's starting a highly respected digital media company that developed a reputation for delivering great business results. John ran off to Thailand to build stuff.
-=======
 ## Platform
 Before Rise Local John was an operation manager at one of the largest local media companies in the world. On a very large scale John witnessed the fear and frustration business owners experienced dealing with IT and Marketing services companies. Simple things often escalated into major ordeals as the client struggled to figure out who controlled, and in some cases owned, their domain names and hosting accounts. The loss of momentum took a major toll on the company's marketing success.
->>>>>>> b3a2afc9d91aab6f5d59a8f711e047dc8f12447c
 
 The solution is ZoneDock. Launched in 2014, ZoneDock is a unified service architecture that make it possible for Rise Local to consolidate all mission critical IT services into a single billing and support relationship. With ZoneDock business owners enjoy the confidence of having full control over all their service with easy access to the services they need to grow their business.
 
