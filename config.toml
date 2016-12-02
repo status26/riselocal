@@ -2,9 +2,6 @@ baseurl = "http://riselocal.com/"
 languageCode = "en-us"
 title = "Rise Local - IT, Identity, and Marketing"
 theme = "hugo-theme-tempo"
-disqusShortname = "risedev"
-
-SectionPagesMenu = "main"
 
 [taxonomies]
 tag = "tags"
@@ -14,10 +11,7 @@ services = "services"
 2017 = "2017"
 2018 = "2018"
 
-[params.logo]
-enable = true
-logo = "riselocal-logo.png"
-alt = "riselocal logo"
+disqusShortname = "risedev"
 
 [params.social.facebook]
 enable = true
@@ -28,43 +22,73 @@ enable = true
 hook = "Are You Crazy? We Have Digital Marketing Solutions For Businesses of all Shapes & Sizes"
 detail = "....then don't miss this opportunity to learn what you need to do to get more leads!"
 
-# PAGE CONFIG
 
-# Promo Section
-[params.promo]
+# BLOCK CONFIG
+
+## Header
+
+### Logo
+[params.logo]
+enable = true
+logo = "riselocal-logo.png"
+alt = "riselocal logo"
+
+### Nav
+SectionPagesMenu = "main"
+
+### Footer
+
+### About Footer Text
+[params.footer.about]
+headline = "About Rise Local"
+text = "Rise Local is a marketing operations company that provides IT and Marketing services to local business owners. We have everything you need to generate more phone calls and leads for your business including domain name registration, web hosting, web design, SEO, local search marketing, pay-per-click management and more."
+
+### About Footer List of Services
+[params.footer.services]
+headline = "Services"
+services = [ "domains", "hosting", "websites", "SEO", "local search", "pay per click" ]
+
+
+# SECTION CONFIG
+
+## HOME
+
+### Promo Partial
+[params.home.promo]
 enable = true
 hook = "Fire Your Webmaster"
 detail = "Start getting better marketing results at lower costs."
 ctaButton = "Tell me more!"
 ctaURL = "tour"
 
-[params.promo.signup]
+### Newsletter Partial in Promo
+[params.home.promo.signup]
 enable = true
 hook = "Turn your local business into a Lead Generation Machine!"
 detail = "Signup for Our Free Online Marketing Course for Business Owners"
 
-# Press section
-[params.press]
+### Press Partial
+[params.home.press]
 enable = false
 
-# Why section
-[params.why]
+### Video Partial
+[params.home.video]
+enable = false
+
+### Faq Partial
+[params.home.faq]
+enable = true
+
+## ABOUT
+
+### Feature Partial
+[params.about]
 enable = true
 hook = "Why Rise Local"
 detail = "Our team has helped thousands of local businesses owners eliminate wasteful IT and Marketing spending while increasing thier sales."
 
-# Video section
-[params.video]
-enable = false
-
-# Faq section
-[params.faq]
-enable = false
-
-[params.footer.about]
-headline = "About Rise Local"
-text = "Rise Local is a marketing operations company that provides IT and Marketing services to local business owners. We have everything you need to generate more phone calls and leads for your business including domain name registration, web hosting, web design, SEO, local search marketing, pay-per-click management and more."
-
-[params.footer.services]
-headline = "Services"
-services = [ "domains", "hosting", "websites", "SEO", "local search", "pay per click" ]
+### Why Partial
+[params.about.why]
+enable = true
+hook = "Why Rise Local"
+detail = "Our team has helped thousands of local businesses owners eliminate wasteful IT and Marketing spending while increasing thier sales."
