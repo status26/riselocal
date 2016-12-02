@@ -3,8 +3,25 @@ date = "2016-11-11T16:03:16-06:00"
 draft = true
 title = "local search"
 
+## Local Search Marketing Campaign: 
+Rise Local founders and principals are highly experienced, passionately enthusiastic about local search. We began fixing local visibility for our clients back before everyone had a website around the year 2000. We have been developing solutions and processes that focus on how data feeds the local search ecosystem. Making sure business listings are accurate, up to date and complete is a real part time job. For many of our customers they have had agencies attempt to do it or staff members may have even been assigned this task. It is not sexy or super exciting but it is extremely important if you want to more phone calls and foot traffic from local searches. Why not do it right the first time?
+
+Local search is a lead generation strategy aimed at increasing foot traffic and phone calls to a physical location. You don't win at local search unless you are moving lots of data quickly. To do so you must know the ins and outs of the local search ecosystem. We’ve built the best platform and tools that help us quickly improve your location visibility. Now don't get us wrong, local search also works for service area businesses too! If you service a local market or want to rank your brand for organic searches you need accurate, consistent, and complete local business listings.
+
+The most important steps in local search listing management is to gather all the assets and business details needed to build a complete location master profile to submit. Once we have all the details we begin processing your Data Aggregator submissions and then advance on to the top 50+ websites being manually claimed, submit to direct API feed providers, and then our focus is on claiming and submitting additional listings as they are created or discovered by our software.
+
+**Special Message: No Long-Term Contracts – Service is Month to Month.**
+**Our clients choose to work with us each month based on value.**
+**Service can be canceled any time after the first month.**
+
+## Local Search Presence Management
+Local Listing Presence Management is the ongoing process of building, maintaining and analyzing advertising campaigns at Google AdWords, Bing & Yahoo Ads and Facebook Ads to achieve the best click and call results possible. These platforms are highly complicated and constantly changing. PPC management is necessary to determine the outcomes and results of the money invested into paid search marketing. When we say Full Service Management we mean that our clients do not need to log into their account to maintain and update billing, make changes to ads or budgets, or even do their own keyword research. We do it all for you. This includes monitoring and scoring calls from our dynamic conversion tracking scripts. When you want to stop wasting money it is time to hire Professional PPC Management by Rise Local.  
+
+## Local Listing Presence Management Details >
+We manage campaign budgets from $150.00 a month for a single location to $500 a month for our premium service and even do listings for multi-location brands with up to hundreds of locations.
+
 +++
-| Getting Started     | Gain Momentum | Rise Above All |
+| Getting Started   | Gain Momentum | Rise Above All |
 | ------- | ---- | --- |
 | $150 | $375 |  $500    |
 | Top Data Aggregators    | Top Data Aggregators + Factual   |  Top Data Aggregators + Factual + yext   |
