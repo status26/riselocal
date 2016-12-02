@@ -1,7 +1,11 @@
-
-+++ Where Do You Stand in 2017
-
++++
+date = "2016-12-01T20:51:31-06:00"
+title = "Where Do You Stand in 2017"
+draft = true
+2016 = "12"
++++
 Let's be honest, I don't want to pitch you anything right now. I just want to level set with you. There is a very good chance that you are behind on your digital marketing strategy and it is costing you way too much money. I would like to tell you why businesses like yours are changing their local advertising strategy. The reasons are very clear to us. The return on investment from the processes and channel tactics we deploy is much higher. Our websites load extremely fast, 90+% faster than most sites and are always mobile friendly. Load speed is very important to SEO. We bake SEO into our hosting. We do paid search budget and bid control scripts so we don't waste your money. We also won't hold you hostage.
+<!--more-->
 
 When I talk to our customers we have learned that the greatest frustrations that business owners  experience dealing with local media outlets and organizations is that they are all looking to get a piece of their advertising budget and spend for doing very little work and then they want to hold the website they "built" or the "campaign they built" or the work they have done hostage. This doesn't work. Sure it protects they poorly compiled code or overpriced gimmick. There is not such thing as a channel strategy. You have a business strategy and then build out your channel tactics.
 

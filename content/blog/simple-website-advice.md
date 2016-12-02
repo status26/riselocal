@@ -1,11 +1,12 @@
 +++
 date = "2016-11-23T20:51:31-06:00"
-title = "how to cut waste"
+title = "simple website advice"
 draft = true
+2016 = "11"
 
-+++ Simple Website Advice
-
++++
 Do you remember when people would visit the family doctor if they felt anything wrong? The doctor essentially was a jack of all trades in the medical field. Their advice was end all, be all. Now medicine has sub-sectors. Doctors specialize into things like neurology, family practice, emergency care, and other medical fields. In fact there are even sub-specialties of the neurology specialty. There is practically a specialist for everything.
+<!--more-->
 
 Way, way back in 1995 there was the "IT guy."" He knew IT, software, and simple websites. He was so smart and everyone in the company looked up to him/her. Now days we get called IT geeks, but that is dead wrong. Just because we work on the internet, doesn't mean we should know how to fix computers. Sure we know how to use them better than most, but doesn't mean we want to do open heart surgery on our neighbors DELL. Sure, I probably know more than most, but don't call me to fix your computer. You wouldn't call a carpenter to sell your house. Don't hire your web developer to market your website. Marketing a website and creating a website are not the same thing. They are different processes and platforms for each and having extensive knowledge of what works real time takes a professional.
 

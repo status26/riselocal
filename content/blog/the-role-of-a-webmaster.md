@@ -2,10 +2,11 @@
 date = "2016-11-23T20:51:31-06:00"
 title = "the role of a webmaster"
 draft = true
+2016 = "11"
 
-+++ The Changing Role of a Webmaster
-
++++
 When I first began my career in local search marketing in 2000 less than 10% of people used the internet to find a local business. Today in 2016 the number is over 92% and the print business is less than 8%. Yet today most businesses build a website the same way as they did in 2005. When I speak at conferences I jokingly say that websites used to be built like mushrooms, you feed them shit leave them in the dark and watch them grow. Today we don't build websites like that. Having a single person build your website is a flawed approach. I will explain how the role of a webmaster has changed over the years.
+<!--more-->
 
 There are two paths to building a great website: you either start with the layout and design or the content and data. I have always preferred a content driven development path and put a huge focus on collaborating with the client to ideate new content and to gather and port existing content to be properly structured. Once you have the inventory of content is it much easier to plan the website.
 
@@ -23,7 +24,7 @@ Future website firm's will need simpler products and services
 agencies don't desire to brace the unknown
 bold in actions
 traditional agencies are slow to adapt and will family
-industry experts are no longer relevent 
+industry experts are no longer relevent
 innovators who are not are going to become the future leaders in web technology
 
 To be a webmaster today you must:

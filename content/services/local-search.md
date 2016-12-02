@@ -2,6 +2,7 @@
 date = "2016-11-11T16:03:16-06:00"
 draft = true
 title = "local search"
++++
 
 ## Local Search Marketing Campaign:
 Rise Local founders and principals are highly experienced, passionately enthusiastic about local search. We began fixing local visibility for our clients back before everyone had a website and the most popular media for local searches was the yellow pages, around the year 2000. We have been developing solutions and processes that focus on how data feeds the local search ecosystem before it existed. Making sure business listings are accurate, up to date and complete is a real tasks businesses need done to get business. For many of our customers they have had agencies attempt to do it or staff members may have even been assigned this task. It is not sexy or super exciting but it is extremely important if you want to more phone calls and foot traffic from local searches. Why not do it right the first time?
@@ -20,7 +21,6 @@ Local Listing Presence Management is the ongoing process of building, maintainin
 ## Local Listing Presence Management Details >
 We manage campaign budgets from $150.00 a month for a single location to $500 a month for our premium service and even do listings for multi-location brands with up to hundreds of locations.
 
-+++
 | Getting Started   | Gain Momentum | Rise Above All |
 | ------- | ---- | --- |
 | $150 | $375 |  $500    |
@@ -29,8 +29,7 @@ We manage campaign budgets from $150.00 a month for a single location to $500 a 
 | Email Support |  Website Review  | Website Review + Reputation Review
 | Learn More | Learn More | Learn More |
 
-
-#### Most Common Questions
+## Most Common Questions
 Q) What is Local Search Marketing?
 A) Local search is a lead generation strategy aimed at increasing foot traffic and phone calls to a physical location. Local SEO is a content strategy aimed at increasing website traffic from visitors using geo-concatenated search queries in search engines.
 

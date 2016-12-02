@@ -2,6 +2,7 @@
 date = "2016-11-23T20:51:31-06:00"
 title = "mike stewart"
 draft = true
+2016 = "11"
 
 +++
 I began advising businesses on local marketing before the internet was popular in 2000 for Verizon Directories, the company had just changed names from GTE Yellow Pages. From 2000-2009 I consulted with businesses in Texas....
