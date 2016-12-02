@@ -5,11 +5,9 @@ img = ""
 imgalt = ""
 
 +++
-For years local media companies, marketing agencies, and technology service providers have been abusing small business owners with high prices, aggressive sales tactics, lousy support, and terrible business results. This has left business owners questioning what they need and who they can trust.
+Rise Local helps local businesses get better IT and Marketing results.
 <!--more-->
 
-To solve this problem we build a platform that replaces your domain registrar, host provider, web designer and marketing company with one relationship where everyone works together to grow your business.
+For years local media companies, marketing agencies, and technology service providers have been abusing small business owners with high prices, aggressive sales tactics, lousy support, and terrible business results. This has left business owners questioning what they need and who they can trust.
 
-Consolidating the services you are already paying not only saves you time and money, but it also increases accountability which is essential to improving your business results. That is the Rise Local difference.
-
-So go ahead. Fire your webmaster and marketing “guru”. We got you covered.
+Rise Local exists to help local businesses achieve better business results at a fair price. We start by consolidating your IT and Marketing services onto our platform so you can get the services you need and the support you deserve from people who care about your business.
