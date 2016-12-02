@@ -71,6 +71,12 @@ detail = "Signup for Our Free Online Marketing Course for Business Owners"
 [params.home.press]
 enable = false
 
+### Why Partial
+[params.home.why]
+enable = false
+hook = "Why Rise Local"
+detail = "Our team has helped thousands of local businesses owners eliminate wasteful IT and Marketing spending while increasing thier sales."
+
 ### Video Partial
 [params.home.video]
 enable = false
