@@ -1,7 +1,7 @@
 +++
 date = "2016-11-22T11:41:41-06:00"
 title = "our story"
-img = "our-story.png"
+img = ""
 imgalt = "rise local story"
 
 +++
