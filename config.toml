@@ -95,10 +95,15 @@ enable = false
 ## ABOUT
 
 ### Feature Partial
-[params.about]
+[params.about.promo]
 enable = true
 hook = "Why Rise Local"
 detail = "Our team has helped thousands of local businesses owners eliminate wasteful IT and Marketing spending while increasing thier sales."
+
+[params.about]
+enable = true
+hook = ""
+detail = ""
 
 ### Why Partial
 [params.about.why]
