@@ -8,5 +8,5 @@ type = "testimonials"
 noindex = "true"
 
 +++
-They are creative geniuses too! Their work is excellent and detailed. The guys at Rise Local are knowledgeable about this field and the competition. We have been very pleased, and would unhesitatingly recommend them.
+The guys at Rise Local are knowledgeable. We have been very pleased, and would unhesitatingly recommend them.
 <!--more-->
